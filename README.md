@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `she`/`her`
 - 🔭 I’m currently working on random discord stuff
 - 📫 How to reach me:</br>
-  [Discord](https://discord.verify.gay)</br>
+  [Discord](http://discord.verify.gay)</br>
   [Twitter](https://twitter.com)</br>
   [YouTube](https://youtube.com)
   
