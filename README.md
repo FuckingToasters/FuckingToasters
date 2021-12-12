@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `she`/`her`
 - 🔭 I’m currently working on random discord stuff
 - 📫 How to reach me:</br>
-  [Discord](http://discord.verify.gay)</br>
-  [Twitter](https://twitter.com)</br>
-  [YouTube](https://youtube.com)
+  ![Discord Chat](https://user-images.githubusercontent.com/94435104/145717234-14bddce5-8294-46f0-af21-ee1c87d33a7c.gif)</br>
   
   ### If a social media profile only redirects to the standard site, it means i dont have any account linked yet.
 
