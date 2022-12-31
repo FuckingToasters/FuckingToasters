@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: `she`/`her`
 - 🔭 I’m currently working on random discord stuff
-- 📫 How to reach me:</br>
-  ![Discord Chat](https://user-images.githubusercontent.com/94435104/145717234-14bddce5-8294-46f0-af21-ee1c87d33a7c.gif)</br>
+- 📫 How to reach me:
+    <br>
+    [Click me](https://solo.to/Infinimonster)
   
   ### If a social media profile only redirects to the standard site, it means i dont have any account linked yet.
 
